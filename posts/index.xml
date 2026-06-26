@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Ayush's Blog</title><link>https://ayush-rdev.github.io/posts/</link><description>Recent content in Posts on Ayush's Blog</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://ayush-rdev.github.io/posts/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Ayush&#39;s Blog</title>
+		<link>http://localhost:40875/posts/</link>
+		<description>Recent content in Posts on Ayush&#39;s Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 05 Jun 2026 09:40:54 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:40875/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My First Post</title>
+				<link>http://localhost:40875/posts/my-first-post/</link>
+				<pubDate>Fri, 05 Jun 2026 09:40:54 +0530</pubDate>
+				<guid>http://localhost:40875/posts/my-first-post/</guid>
+				<description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
